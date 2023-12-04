@@ -48,3 +48,12 @@ Route::resource('post', App\Http\Controllers\PostController::class)->only('index
 
 
 Route::resource('post', App\Http\Controllers\PostController::class)->only('index', 'store');
+
+
+Route::resource('post', App\Http\Controllers\PostController::class)->only('index', 'store');
+
+
+Route::resource('post', App\Http\Controllers\PostController::class)->only('index', 'store');
+
+
+Route::resource('post', App\Http\Controllers\PostController::class)->only('index', 'store');
